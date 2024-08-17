@@ -145,21 +145,3 @@ To deploy this application to Vercel:
    ```
 
    Follow the prompts to deploy your application.
-
-## Troubleshooting
-
-- **Application not starting:** Ensure that you have all the required dependencies installed.
-- **Endpoint not found:** Verify that the endpoint paths in your code and `vercel.json` configuration are correct.
-- **CORS issues:** Ensure that your CORS settings are configured to allow requests from your desired origins.
-
-## Contributing
-
-If you'd like to contribute to this project, please fork the repository and submit a pull request. Make sure to follow the project's code of conduct and contribution guidelines.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust the instructions according to your specific setup and requirements.
