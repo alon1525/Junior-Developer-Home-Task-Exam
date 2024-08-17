@@ -1,8 +1,6 @@
-Here's the updated `README.md` file with an additional note about changing CORS permissions:
-
 ---
 
-# My Application
+# Assignment
 
 ## Overview
 
